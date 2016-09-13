@@ -1,0 +1,1 @@
+DefaultPrinterInstaller.exe -c

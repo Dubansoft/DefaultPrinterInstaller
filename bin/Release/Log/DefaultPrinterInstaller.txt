@@ -1,0 +1,39 @@
+13/07/2016 09:15 a.m. :: frmSettings :: cmdFindPrinters :: Se produjo una excepción al crear el objeto PrintServer. Error de Win32: Error de inicio de sesión: nombre de usuario desconocido o contraseña incorrecta.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintServer.Initialize(String path, String[] propertiesFilter, PrinterDefaults printerDefaults)
+   en System.Printing.PrintServer..ctor(String path)
+   en DefaultPrinterInstaller.frmSettings.loadPrintList() en C:\Users\SONDA2\Desktop\InkAlert\DefaultPrinterInstaller\frmSettings.cs:línea 45
+		Type: System.Printing.PrintServerException
+
+
+13/07/2016 09:15 a.m. :: frmSettings :: cmdFindPrinters :: Esta conexión de red tiene archivos abiertos o solicitudes pendientes
+		Exception type is System.Exception
+		Source: DefaultPrinterInstaller
+		StackTrace:    en DefaultPrinterInstaller.NetworkShareAccesser.DisconnectFromShare(String remoteUnc) en C:\Users\SONDA2\Desktop\InkAlert\DefaultPrinterInstaller\Classes\NetworkShareAccesser.cs:línea 224
+   en DefaultPrinterInstaller.NetworkShareAccesser.Dispose() en C:\Users\SONDA2\Desktop\InkAlert\DefaultPrinterInstaller\Classes\NetworkShareAccesser.cs:línea 232
+   en DefaultPrinterInstaller.frmSettings.loadPrintList() en C:\Users\SONDA2\Desktop\InkAlert\DefaultPrinterInstaller\frmSettings.cs:línea 80
+		Type: System.ComponentModel.Win32Exception
+
+
+26/08/2016 04:30 p.m. :: frmSettings :: cmdFindPrinters :: Se produjo una excepción al crear el objeto PrintServer. Error de Win32: El nombre de la impresora no es válido.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintServer.Initialize(String path, String[] propertiesFilter, PrinterDefaults printerDefaults)
+   en System.Printing.PrintServer..ctor(String path)
+   en DefaultPrinterInstaller.frmSettings.loadPrintList() en C:\Users\SONDA2\Desktop\InkAlert\DefaultPrinterInstaller\frmSettings.cs:línea 45
+		Type: System.Printing.PrintServerException
+
+
+26/08/2016 04:31 p.m. :: frmSettings :: cmdFindPrinters :: Se produjo una excepción al crear el objeto PrintServer. Error de Win32: El nombre de la impresora no es válido.
+
+		Exception type is System.Exception
+		Source: System.Printing
+		StackTrace:    en System.Printing.PrintServer.Initialize(String path, String[] propertiesFilter, PrinterDefaults printerDefaults)
+   en System.Printing.PrintServer..ctor(String path)
+   en DefaultPrinterInstaller.frmSettings.loadPrintList() en C:\Users\SONDA2\Desktop\InkAlert\DefaultPrinterInstaller\frmSettings.cs:línea 71
+		Type: System.Printing.PrintServerException
+
+

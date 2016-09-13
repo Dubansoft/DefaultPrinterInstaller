@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DefaultPrinterInstaller.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PrintServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CESSRV31</Value>
+    </Setting>
+    <Setting Name="PrintServerIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.33</Value>
+    </Setting>
+    <Setting Name="DefaultPrintQueue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AUDITORIA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

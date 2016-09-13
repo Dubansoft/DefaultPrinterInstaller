@@ -1,0 +1,9 @@
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\obj\Debug\PrinterConfigurationChecker.Form1.resources
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\obj\Debug\PrinterConfigurationChecker.Properties.Resources.resources
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\obj\Debug\PrinterConfigurationChecker.csproj.GenerateResource.Cache
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\bin\Debug\PrinterConfigurationChecker.exe.config
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\bin\Debug\PrinterConfigurationChecker.exe
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\bin\Debug\PrinterConfigurationChecker.pdb
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\obj\Debug\PrinterConfigurationChecker.csprojResolveAssemblyReference.cache
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\obj\Debug\PrinterConfigurationChecker.exe
+C:\Users\SONDA2\Desktop\InkAlert\PrinterConfigurationChecker\obj\Debug\PrinterConfigurationChecker.pdb
